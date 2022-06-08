@@ -6,7 +6,7 @@ When you know exactly how many times you want to loop through a block of code, u
 
 Syntax 👇
 
-```
+```java
 for (statement 1; statement 2; statement 3) {
   // code block to be executed
 }
@@ -14,7 +14,7 @@ for (statement 1; statement 2; statement 3) {
 
 Example
 
-```
+```java
 for (int i = 0; i < 5; i++) {
   System.out.println(i);
 }
@@ -32,7 +32,7 @@ The `while` loop loops through a block of code as long as a specified condition 
 
 Syntax 👇
 
-```
+```java
 while (condition) {
   // code block to be executed
 }
@@ -42,7 +42,7 @@ Example
 
 In the example below, the code in the loop will run, over and over again, as long as a variable `i` is less than 5:
 
-```
+```java
 int i = 0;
 while (i < 5) {
   System.out.println(i);
