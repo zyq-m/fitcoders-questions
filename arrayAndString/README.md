@@ -82,6 +82,22 @@ for (int i = 0; i < favFood.length; i++) {
 // Ramen
 ```
 
+### Java String `charAt()` Method
+
+The `charAt()` method returns the character at the specified index in a string.
+
+The index of the first character is 0, the second character is 1, and so on.
+
+Example:
+
+```
+String text = "Mom";
+char result = text.charAt(0);
+
+System.out.println(result);
+// Output: M
+```
+
 ### List of Questions and Solutions
 
 - [Q1](Q1)
