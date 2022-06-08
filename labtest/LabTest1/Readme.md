@@ -7,7 +7,7 @@ The first input is a number to determine the total number of mathematical operat
 Then in the loop of `totalSet`;
 
 1. Read the first integer (declare as `num1`),
-2. Then reads a string for the operation symbol (declare as op) such as `+`, `-`, `*` or `/`.
+2. Then reads a string for the operation symbol (declare as `op`) such as `+`, `-`, `*` or `/`.
 3. Then reads the second integer (declare as `num2`).
 
 Your program should output the result of the mathematical operation of `num1` and `num2` as shown in the “Sample Output”.
