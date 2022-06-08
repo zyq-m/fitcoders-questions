@@ -9,9 +9,9 @@
 
 ## Table of Content
 
-- [Selection](https://github.com/zyq-m/fitcoders-questions/tree/main/selection)
+- [Selection](./selection/README.md)
 - Lab Test
-  - [Lab Test 1](https://github.com/zyq-m/fitcoders-questions/tree/main/labtest/LabTest1)
+  - [Lab Test 1](./labtest/LabTest1/Readme.md)
 
 ## About Project
 
