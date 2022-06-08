@@ -10,9 +10,10 @@
 ## Table of Content
 
 - [Selection](./selection/README.md)
-- [Looping](./looping/README.md)
+- [Looping](looping/README.md)
 - [Nested Loop](nestedLoop/README.md)
 - [Method](method/README.md)
+- [Array and String](arrayAndString/README.md)
 - Lab Test
   - [Lab Test 1](./labtest/LabTest1/Readme.md)
 
