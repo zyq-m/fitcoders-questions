@@ -1,4 +1,4 @@
-<details><summary>Questions & Solutions</summary>
+<details><summary><b>Questions & Solutions</b></summary>
 
 - [Q1](Q1/)
 - [Q2](Q2/)
