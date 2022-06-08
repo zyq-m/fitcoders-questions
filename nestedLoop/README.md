@@ -6,7 +6,7 @@ Nested loop means a loop statement inside another loop statement. That is why ne
 
 Syntax👇
 
-```
+```java
 for ( initialization; condition; increment ) {
 
    for ( initialization; condition; increment ) {
