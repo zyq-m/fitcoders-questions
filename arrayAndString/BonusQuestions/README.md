@@ -52,7 +52,7 @@ Write a program to sum values of an array. The first number determine the number
 Sum values: 22
 ```
 
-#### Q3. Reserve String
+#### Q3. Reverse String
 
 Write a program that accept a string then reverse it.
 
@@ -66,4 +66,26 @@ I love you mom
 
 ```
 mom uoy evol I
+```
+
+#### Q4. Print String Vertically
+
+Write a program that accept a word and print vertically.
+
+**Sample output:**
+
+```
+Hi Mom!
+```
+
+**Sample output:**
+
+```
+H
+i
+
+M
+o
+m
+!
 ```
