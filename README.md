@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Fitcoders Questions</h1>
+    <h3>Fitcoders Questions</h3>
     <p>
         -Made with 💖by
         <a href="https://github.com/zyq-m">Haziq Musa</a>
