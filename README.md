@@ -7,7 +7,7 @@
     </p>
 </div>
 
-## Table of Contents
+<details><summary><b>Table of Contents 📝</b></summary>
 
 - [Selection](./selection/README.md)
 - [Looping](looping/README.md)
@@ -18,6 +18,8 @@
   - [Mock Lab Test](labtest/MockLabTest/)
   - [Lab Test 1](labtest/LabTest1/)
   - [Lab Test 2](labtest/LabTest2/)
+
+</details>
 
 ## About Project
 
