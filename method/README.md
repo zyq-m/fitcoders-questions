@@ -1,3 +1,10 @@
+<details><summary><b>Questions & Solutions💡</b></summary>
+
+- [Q1](Q1/)
+- [Q2](Q2/)
+
+</details>
+
 ## Method 👩‍💻
 
 ### Java methods
@@ -111,8 +118,3 @@ public class Main {
 }
 // Outputs 5
 ```
-
-### List of Questions & Solutions
-
-- [Q1](Q1/)
-- [Q2](Q2/)
