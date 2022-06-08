@@ -6,13 +6,13 @@ Arrays are used to store multiple values in a single variable, instead of declar
 
 To declare an array, define the variable type with **square brackets**:
 
-```
+```java
 int[] myArr;
 ```
 
 We have now declared a variable that holds an array of strings. To insert values to it, we can use an array literal - place the values in a comma-separated list, inside curly braces:
 
-```
+```java
 int[] myArr = {1, 2, 3};
 ```
 
@@ -22,7 +22,7 @@ Access an array element by pointing to its index number
 
 Example:
 
-```
+```java
 String[] myFriends = {"Ahmad", "Abu", "Ali"};
 
 System.out.println(myFriends[0]);
@@ -34,7 +34,7 @@ System.out.println(myFriends[0]);
 
 To find out how many elements in an array just use `length` property:
 
-```
+```java
 String[] myFriends = {"Ahmad", "Abu", "Ali"};
 
 System.out.println(myFriends.length);
@@ -46,7 +46,7 @@ System.out.println(myFriends.length);
 
 You can loop through the array elements with the `for` loop, and use the `length` property to specify how many times the loop should run.
 
-```
+```java
 String[] myFriends = {"Ahmad", "Abu", "Ali"};
 
 for (int i = 0; i < myFriends.length; i++) {
@@ -63,7 +63,7 @@ for (int i = 0; i < myFriends.length; i++) {
 
 You can declare an array with empty element and initialize it later.
 
-```
+```java
 String[] favFood = new String[3]; // empty array
 
 // initialize element in array
@@ -90,7 +90,7 @@ The index of the first character is 0, the second character is 1, and so on.
 
 Example:
 
-```
+```java
 String text = "Mom";
 char result = text.charAt(0);
 
