@@ -21,4 +21,22 @@
 
 ## About Project
 
-This repository contain compilation of [fitcoders](https://myfik.unisza.edu.my/fitcode/index.php) questions. I hope it can help you learn Java effectively.
+This repository contain compilation of [FITcoders](https://myfik.unisza.edu.my/fitcode/index.php) questions.
+
+FITCoders is an automated online programming tool that provides platform for learning and practising programming. It also to fit all coders with contest activities.
+
+Please feel free to contact the developer at suhailan@unisza.edu.my
+
+I hope it can help you learn Java effectively✨
+
+## Contact/Follow Me
+
+- [Twitter](https://twitter.com/zyq__m)
+- [Email](mailto:haziq.musa02@gmail.com)
+
+## Acknowledgements
+
+- [FITcoders](https://myfik.unisza.edu.my/fitcode/index.php)
+- [Dr. Suhailan](mailto:suhailan@unisza.edu.my)
+- [w2school](https://www.w3schools.com/java/default.asp)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/java/)
