@@ -114,5 +114,5 @@ public class Main {
 
 ### List of Questions & Solutions
 
-- [Q2](Q1/)
-- [Q1](Q2/)
+- [Q1](Q1/)
+- [Q2](Q2/)
