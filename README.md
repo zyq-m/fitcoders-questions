@@ -12,6 +12,7 @@
 - [Selection](./selection/README.md)
 - Lab Test
   - [Lab Test 1](./labtest/LabTest1/Readme.md)
+- [Looping](./looping/README.md)
 
 ## About Project
 
