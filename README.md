@@ -21,7 +21,7 @@
 
 ## About Project
 
-This repository contain compilation of [FITcoders](https://myfik.unisza.edu.my/fitcode/index.php) questions.
+This repository contains compilation of [FITcoders](https://myfik.unisza.edu.my/fitcode/index.php) questions.
 
 FITCoders is an automated online programming tool that provides platform for learning and practising programming. It also to fit all coders with contest activities.
 
