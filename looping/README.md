@@ -50,6 +50,12 @@ while (i < 5) {
 }
 ```
 
+### For Loop Vs While Loop
+
+| Comparison  | For                                                         | While                                                            |
+| ----------- | ----------------------------------------------------------- | ---------------------------------------------------------------- |
+| When to use | Used only when we already **knew** the number of iterations | Used only when the number of iteration are **not exactly known** |
+
 ### List of Questions and Solutions
 
 - [Q1](Q1/)
