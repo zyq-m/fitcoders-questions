@@ -1,3 +1,19 @@
+<details><summary>Questions & Solutions</summary>
+
+- [Q1](Q1/)
+- [Q2](Q2/)
+- [Q3](Q3/)
+- [Q4](Q4/)
+- [Q5](Q5/)
+- [Q6](Q6/)
+- [Q7](Q7/)
+- [Q8](Q8/)
+- [Q9](Q9/)
+- [Q10](Q10/)
+- [Q11](Q11/)
+
+</details>
+
 ## Selection 👩‍💻
 
 ### Java If ... else
@@ -24,17 +40,3 @@ if (condition) {
   // block of code to be executed if the condition is false
 }
 ```
-
-### List of Questions and Solutions
-
-- [Q1](Q1/)
-- [Q2](Q2/)
-- [Q3](Q3/)
-- [Q4](Q4/)
-- [Q5](Q5/)
-- [Q6](Q6/)
-- [Q7](Q7/)
-- [Q8](Q8/)
-- [Q9](Q9/)
-- [Q10](Q10/)
-- [Q11](Q11/)
