@@ -2,9 +2,6 @@ package labtest.LabTest1;
 
 import java.util.Scanner;
 
-/**
- * Labtest
- */
 public class Labtest {
 
     public static void main(String[] args) {
