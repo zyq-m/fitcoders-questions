@@ -20,7 +20,7 @@ using table format as shown in the sample output.
 **Sample output:**
 
 ```
-ID: 2 (2001)
 ID: 3 (2000)
+ID: 2 (2001)
 ID: 1 (1998)
 ```
