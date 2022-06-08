@@ -12,9 +12,7 @@ public class Q4 {
         for (int i = 0; i < arrSize; i++) {
             num[i] = k.nextInt();
 
-            if (biggest > num[i]) {
-                biggest = biggest;
-            } else {
+            if (biggest < num[i]) {
                 biggest = num[i];
             }
         }
