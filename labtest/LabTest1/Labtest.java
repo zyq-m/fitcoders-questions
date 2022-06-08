@@ -10,15 +10,15 @@ public class Labtest {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int totalSet = input.nextInt();
-        double num1 = 0;
-        double num2 = 0;
+        int num1 = 0;
+        int num2 = 0;
         String op = null;
-        double result = 0;
+        int result = 0;
 
         for (int i = 0; i < totalSet; i++) {
-            num1 = input.nextDouble();
+            num1 = input.nextInt();
             op = input.next();
-            num2 = input.nextDouble();
+            num2 = input.nextInt();
 
             // addition operation
             if (op.equals("+")) {
@@ -37,10 +37,14 @@ public class Labtest {
                 if (num2 == 0) {
                     System.out.println(num1 + "/" + num2 + " = Cannot divide");
                 } else {
-                    result = num1 / num2;
+                    double convertNum1 = num1;
+                    double convertNum2 = num2;
+                    double convertResult = result;
+                    convertResult = convertNum1 / convertNum2;
+
                     // format & round off
-                    result = Math.round(result * 100.0) / 100.0;
-                    System.out.println(num1 + "/" + num2 + " = " + result);
+                    convertResult = Math.round(convertResult * 100.0) / 100.0;
+                    System.out.println(num1 + "/" + num2 + " = " + convertResult);
                 }
             }
 
