@@ -107,5 +107,40 @@ String text = "Mom";
 char result = text.charAt(0);
 
 System.out.println(result);
+
 // Output: M
+```
+
+### Java String `length()` method
+
+- applicable for string objects
+- method returns the number of characters present in the string
+- suitable for string objects but not for arrays.
+
+Example:
+
+```java
+String text = "Mom";
+int length = text.length();
+
+System.out.println(length);
+
+// Output: 3
+```
+
+### `charAt()` and `for` Loop
+
+Determind position in string:
+
+```java
+String text = "Mom";
+
+for (int i = 0; i < text.length(); i++) {
+    System.out.print("At index " + i + ", the character is " + text.charAt(i));
+}
+
+// Output👇
+// At index 0, the character is M
+// At index 1, the character is 0
+// At index 2, the character is m
 ```
