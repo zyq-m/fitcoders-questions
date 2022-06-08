@@ -15,7 +15,9 @@
 - [Method](method/README.md)
 - [Array and String](arrayAndString/README.md)
 - Lab Test
-  - [Lab Test 1](./labtest/LabTest1/Readme.md)
+  - [Mock Lab Test](labtest/MockLabTest/)
+  - [Lab Test 1](labtest/LabTest1/)
+  - [Lab Test 2](labtest/LabTest2/)
 
 ## About Project
 
