@@ -1,3 +1,16 @@
+<details><summary><b>Questions & Solutions 💡</b></summary>
+
+- [Q1](Q1/)
+- [Q2](Q2/)
+- [Q3](Q3/)
+- [Q4](Q4/)
+- [Q5](Q5/)
+- [Q6](Q6/)
+- [Q7](Q7/)
+- [Q8](Q8/)
+
+</details>
+
 ## Looping 👩‍💻
 
 ### Java For Loop
@@ -55,14 +68,3 @@ while (i < 5) {
 | Comparison  | For                                                         | While                                                            |
 | ----------- | ----------------------------------------------------------- | ---------------------------------------------------------------- |
 | When to use | Used only when we already **knew** the number of iterations | Used only when the number of iteration are **not exactly known** |
-
-### List of Questions and Solutions
-
-- [Q1](Q1/)
-- [Q2](Q2/)
-- [Q3](Q3/)
-- [Q4](Q4/)
-- [Q5](Q5/)
-- [Q6](Q6/)
-- [Q7](Q7/)
-- [Q8](Q8/)

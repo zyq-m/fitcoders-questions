@@ -1,3 +1,13 @@
+<details><summary><b>Questions & Solutions 💡</b></summary>
+
+- [Q1](Q1/)
+- [Q2](Q2/)
+- [Q3](Q3/)
+- [Q4](Q4/)
+- [Q5](Q5/)
+
+</details>
+
 ## Nested Loop 👩‍💻
 
 ### Nested Loop in Java
@@ -19,11 +29,3 @@ for ( initialization; condition; increment ) {
 ```
 
 > Note: _There is no rule that a loop must be nested inside its own type. In fact, there can be any type of loop nested inside any type and to any level._
-
-### List of Questions & Solutions
-
-- [Q1](Q1/)
-- [Q2](Q2/)
-- [Q3](Q3/)
-- [Q4](Q4/)
-- [Q5](Q5/)
