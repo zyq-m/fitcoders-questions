@@ -14,7 +14,7 @@ A method must be declared within a class. It is defined with the name of the met
 
 Syntax👇
 
-```
+```java
 public class Main {
   static void myMethod() {
     // code to be executed
@@ -36,7 +36,7 @@ Example
 
 Inside `main`, call the `greeting` method:
 
-```
+```java
 public class Main {
   static void greeting() {
     System.out.println("Hi Mom!");
@@ -52,7 +52,7 @@ public class Main {
 
 A method also can be called mutltiple times:
 
-```
+```java
 public class Main {
   static void greeting() {
     System.out.println("Hi Mom!");
@@ -78,7 +78,7 @@ Parameters are specified after the method name, inside the parentheses. You can 
 
 The following example has a method that takes a `String` called `name` as parameter:
 
-```
+```java
 public class Main {
   static void myMethod(String name, int age) {
     System.out.println("My name is " + name);
@@ -98,7 +98,7 @@ public class Main {
 
 The `void` keyword, used in the examples above, indicates that the method should not return a value. If you want the method to return a value, you can use a primitive data type (such as `int`, `char`, etc.) instead of `void`, and use the `return` keyword inside the method:
 
-```
+```java
 public class Main {
   static int addTwoNum(int x, int y) {
     return x + y;
