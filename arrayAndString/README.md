@@ -130,7 +130,7 @@ System.out.println(length);
 
 ### `charAt()` and `for` Loop
 
-Determind position in string:
+Determine position in string:
 
 ```java
 String text = "Mom";
