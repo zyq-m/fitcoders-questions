@@ -38,5 +38,5 @@ I hope it can help you learn Java effectively✨
 
 - [FITcoders](https://myfik.unisza.edu.my/fitcode/index.php)
 - [Dr. Suhailan](mailto:suhailan@unisza.edu.my)
-- [w3school](https://www.w3schools.com/java/default.asp)
+- [w3schools](https://www.w3schools.com/java/default.asp)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/java/)
