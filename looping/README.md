@@ -52,11 +52,11 @@ while (i < 5) {
 
 ### List of Questions and Solutions
 
-- [Q1](./Q1/README.md)
-- [Q2](./Q2/README.md)
-- [Q3](./Q3/README.md)
-- [Q4](./Q4/README.md)
-- [Q5](./Q5/README.md)
-- [Q6](./Q6/README.md)
-- [Q7](./Q7/README.md)
-- [Q8](./Q8/README.md)
+- [Q1](Q1/)
+- [Q2](Q2/)
+- [Q3](Q3/)
+- [Q4](Q4/)
+- [Q5](Q5/)
+- [Q6](Q6/)
+- [Q7](Q7/)
+- [Q8](Q8/)
