@@ -67,3 +67,25 @@ I love you mom
 ```
 mom uoy evol I
 ```
+
+#### Q4. Print String Vertically
+
+Write a program that accept a word and print vertically.
+
+**Sample output:**
+
+```
+Hi Mom!
+```
+
+**Sample output:**
+
+```
+H
+i
+
+M
+o
+m
+!
+```
