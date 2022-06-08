@@ -52,7 +52,7 @@ Write a program to sum values of an array. The first number determine the number
 Sum values: 22
 ```
 
-#### Q3. Reserve String
+#### Q3. Reverse String
 
 Write a program that accept a string then reverse it.
 
