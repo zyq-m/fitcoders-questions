@@ -4,7 +4,8 @@
 
 - [Q1](#q1-sort-number)
 - [Q2](#q2-sum-of-elements)
-- [Q3](#q3-reserve-string)
+- [Q3](#q3-reverse-string)
+- [Q4](#q4-print-string-vertically)
 
 </details>
 
@@ -70,7 +71,7 @@ mom uoy evol I
 
 #### Q4. Print String Vertically
 
-Write a program that accept a word and print vertically.
+Write a program that accept a string and print vertically.
 
 **Sample output:**
 
