@@ -1,3 +1,15 @@
+<details><summary><b>Questions & Solutions💡</b></summary>
+
+- [Q1](Q1)
+- [Q2](Q2)
+- [Q3](Q3)
+- [Q4](Q4)
+- [Q5](Q5)
+- [Q6](Q6)
+- [Q7](Q7)
+
+</details>
+
 ## Array and String
 
 ### Java Arrays
@@ -97,13 +109,3 @@ char result = text.charAt(0);
 System.out.println(result);
 // Output: M
 ```
-
-### List of Questions and Solutions
-
-- [Q1](Q1)
-- [Q2](Q2)
-- [Q3](Q3)
-- [Q4](Q4)
-- [Q5](Q5)
-- [Q6](Q6)
-- [Q7](Q7)
