@@ -1,6 +1,6 @@
 ### Q5. Hangman Question
 
-Write a program that will read string. Then your program should show all the string character using \* except for character 2, output its real character.
+Write a program that will read string. Then your program should show all the string character using `*` except for character 2, output its real character.
 
 **Sample input:**
 
