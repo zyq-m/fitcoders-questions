@@ -114,5 +114,5 @@ public class Main {
 
 ### List of Questions & Solutions
 
-- [Q1](./Q1/README.md)
-- [Q2](./Q2/README.md)
+- [Q2](Q1/)
+- [Q1](Q2/)
