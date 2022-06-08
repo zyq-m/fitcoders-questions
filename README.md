@@ -7,7 +7,7 @@
     </p>
 </div>
 
-## Table of Content
+## Table of Contents
 
 - [Selection](./selection/README.md)
 - [Looping](looping/README.md)
