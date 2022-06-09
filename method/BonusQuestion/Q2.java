@@ -3,13 +3,9 @@ package method.BonusQuestion;
 import java.util.Scanner;
 
 public class Q2 {
-    static void CheckAge() {
-        Scanner scan = new Scanner(System.in);
+    static void CheckAge(int x) {
 
-        System.out.println("What is your age?");
-        int age = scan.nextInt();
-
-        if (age >= 18) {
+        if (x >= 18) {
             System.out.println("You are elligible to vote.");
         } else {
             System.out.println("You are not elligible to vote.");
@@ -17,6 +13,9 @@ public class Q2 {
     }
 
     public static void main(String[] args) {
-        CheckAge();
+        Scanner scan = new Scanner(System.in);
+        System.out.println("What is your age?");
+        int age = scan.nextInt();
+        CheckAge(age);
     }
 }
