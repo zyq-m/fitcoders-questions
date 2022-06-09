@@ -17,7 +17,7 @@ public class LabTest2 {
         // check wether it is same as character
 
         // check the rest of character
-        for (int i = 1; i < input.length(); i++) {
+        for (int i = 0; i < input.length(); i++) {
             // merged letter position with dashed
             if (input.charAt(i) == character) {
                 secretCode += i + "-";
@@ -26,8 +26,10 @@ public class LabTest2 {
 
         // remove last dashed
         String filterLastDashed = "";
-        if (secretCode.charAt(secretCode.length() - 1) == '-') {
-            for (int j = 0; j < secretCode.length() - 1; j++) {
+        int lastCharacter = secretCode.length() - 1;
+
+        if (secretCode.charAt(lastCharacter) == '-') {
+            for (int j = 0; j < lastCharacter; j++) {
                 filterLastDashed += secretCode.charAt(j);
             }
 
