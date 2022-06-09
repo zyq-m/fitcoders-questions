@@ -16,17 +16,23 @@ public class LabTest2 {
         // get all postion
         // check wether it is same as character
 
-        // check the first character
-        if (input.charAt(0) == character) {
-            secretCode += 0;
-        }
-
         // check the rest of character
         for (int i = 1; i < input.length(); i++) {
             // merged letter position with dashed
             if (input.charAt(i) == character) {
-                secretCode += "-" + i;
+                secretCode += i + "-";
             }
+        }
+
+        // remove last dashed
+        String filterLastDashed = "";
+        if (secretCode.charAt(secretCode.length() - 1) == '-') {
+            for (int j = 0; j < secretCode.length() - 1; j++) {
+                filterLastDashed += secretCode.charAt(j);
+            }
+
+            // reintiliaze
+            secretCode = filterLastDashed;
         }
 
         return secretCode;
