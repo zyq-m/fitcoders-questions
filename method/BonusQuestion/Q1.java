@@ -5,12 +5,10 @@ import java.util.Scanner;
 public class Q1 {
 
     static int min(int[] arr) {
-        int min = 0;
+        int min = arr[0];
 
         for (int i = 0; i < arr.length; i++) {
-            if (arr[0] < arr[i]) {
-                min = arr[0];
-            } else {
+            if (arr[i] < min) {
                 min = arr[i];
             }
         }
@@ -22,9 +20,7 @@ public class Q1 {
         int max = 0;
 
         for (int i = 0; i < arr.length; i++) {
-            if (arr[0] > arr[i]) {
-                max = arr[0];
-            } else {
+            if (arr[i] > max) {
                 max = arr[i];
             }
         }
