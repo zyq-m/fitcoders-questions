@@ -1,4 +1,4 @@
-### LabTest 1 (2)
+### LabTest 1.2
 
 Write a program that read an integer as the total looping number. Then the program will read two doubles in the looping and will do the following:
 
