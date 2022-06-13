@@ -17,7 +17,9 @@
 - Lab Test
   - [Mock Lab Test](labtest/MockLabTest/)
   - [Lab Test 1](labtest/LabTest1/)
+  - [Lab Test 1.2](labtest/LabTest1Max/)
   - [Lab Test 2](labtest/LabTest2/)
+  - [Lab Test 2.2](labtest/LabTest2Max/)
 
 </details>
 
