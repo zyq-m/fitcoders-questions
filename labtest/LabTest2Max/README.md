@@ -1,4 +1,4 @@
-### LabTest2 (2)
+### LabTest 2.2
 
 Write a program that an integer (declares it as X) followed by an array of 10 integers (declare it as NUMS). Then create a method named as COUNT_BELOW. This method should receive TWO parameters, the NUMS and the X that were initially read from the main method. This method should return how many numbers that are BELOW X values. Print the total of the below than X numbers in your main method.
 
