@@ -12,7 +12,7 @@ For example a string of `abc aab` with a character `b` has a secret code of `1-6
 
 | string   | a   | b   | c   |     | a   | a   | b   |
 | -------- | --- | --- | --- | --- | --- | --- | --- |
-| position | 0   | a   | 2   | 3   | 4   | 5   | 6   |
+| position | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
 
 **Sample input:**
 
